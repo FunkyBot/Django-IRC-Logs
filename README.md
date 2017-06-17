@@ -18,4 +18,4 @@ term historical data from [botbot.me](https://botbot.me/freenode/django/), but w
 We are still working on this.
 
 These were pulled off a bouncer we had set up for a little over a year and a half.  This isn't a complete
-list, but we thing it is enough for now.
+list, but we think it is enough for now.
